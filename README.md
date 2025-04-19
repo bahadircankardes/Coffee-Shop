@@ -10,7 +10,7 @@ A responsive, elegant coffee shop website built using HTML5 and CSS3. This site 
 
 
 # 🖥️ Demo
-- bck-coffeeshop.netlify.app
+- https://bck-coffeeshop.netlify.app/
 
 # 🧰 Technologies Used
 
